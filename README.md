@@ -16,3 +16,5 @@ Attribute Information:
 -- Iris Setosa 
 -- Iris Versicolour 
 -- Iris Virginica
+
+ref - [UCI Archive](https://archive.ics.uci.edu/ml/datasets/iris)
